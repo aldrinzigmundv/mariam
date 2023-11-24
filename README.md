@@ -21,7 +21,7 @@ I dedicate this app, 'Mariam,' to Our Lady of Fatima in honor of the miracles at
 
 ## How to Contribute
 
-We welcome contributions from the community to improve translations for Mariam. If you would like to contribute by translating the app into additional languages or enhancing existing translations, please check the 'Translations' section in the repository to identify areas that require translation or improvement.
+We welcome contributions from the community to improve translations for Mariam. If you would like to contribute by translating the app into additional languages or enhancing existing translations, please check 'lib/l10n/' in this app's repository to identify areas that require translation or improvement.
 
 
 **This app is powered by aldrinzigmund.com**
