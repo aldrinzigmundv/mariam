@@ -1,0 +1,46 @@
+{
+  "signOfTheCross": "In nómine Pátris, et Fílii, et Spíritus Sáncti.​ Amen.",
+  "theApostlesCreed": "Crédo in Déum Pátrem omnipoténtem,\nCreatórem cáeli et térræ.\nEt in Iésum Chrístum, Fílium éius unícum, Dóminum nóstrum:\nqui concéptus est de Spíritu Sáncto,\nnátus ex María Vírgine,\npássus sub Póntio Piláto,\ncrucifíxus, mórtuus, et sepúltus:\ndescéndit ad ínferos:\ntértia die resurréxit a mórtuis:\nascéndit ad cáelos:\nsédet ad déxteram Déi Pátris omnipoténtis:\nínde ventúrus est iudicáre vívos et mórtuos.\n\nCrédo in Spíritum Sánctum,\nsánctam Ecclésiam Cathólicam,\nSanctórum Communiónem,\nremissiónem peccatórum,\ncárnis resurrectiónem,\nvítam ætérnam.\nAmen.",
+  "theLordsPrayer": "Páter Nóster,\nQui es in cáelis,\nsanctificétur nómen túum.\nAdvéniat régnum túum,\nfíat volúntus túa,\nsícut in cáelo et in térra.\nPánem nóstrum quotidiánum da nóbis hódie,\net dimítte nóbis débita nóstra,\nsícut et nos dimíttimus debitóribus nóstris.\nEt ne nos indúcas in tentatiónem:\nsed líbera nos a málo.\nAmen.",
+  "hailMary": "Áve María,\ngrátia pléna,\nDóminus técum.\nBenedícta tu in muliéribus,\net benedíctus frúctus véntris túi, Iésus.\n\nSáncta María,\nMáter Déi,\nóra pro nóbis peccatóribus,\nnunc, et in hóra mórtis nóstræ.\nAmen.",
+  "gloryBe": "Glória Pátri, et Fílio, et Spirítui Sáncto.\nSícut érat in princípio,\net nunc, et sémper,\net in sáecula sæculórum.\nAmen.",
+  "fatimaPrayer": "O (mi) Bóne Iésu,\nlíbera nos a peccatís nóstris;\nlíbera nos ab ígnibus gehénnae;\nperdúc in paradísum ómnes animás præsértim\neas quae plus misericórdia tua indígent!",
+  "hailHolyQueen": "Sálve Regína, Máter misericórdiæ!\nVíta, dulcédo, et spes nóstra, sálve.\nAd te clamámus, éxsules filii Hévæ.\nAd te suspirámus,\ngeméntes et fléntes in hac lacrimárum válle.\n\nÉia érgo, Advocáta nóstra,\níllos túos misericórdes óculos ad nos convérte.\nEt Iésum, benedíctum frúctum véntris túi,\nnóbis post hoc exsílium osténde.\n\nO clémens, O pía, O dúlcis Vírgo María!\nV/. Óra pro nóbis, Sáncta Déi Génetrix.\nR/. Ut dígni efficiámur promissiónibus Chrísti. Amen.",
+  "concludingPrayer": "Orémus:\nDéus, cújus Unigénitus\nper vítam, mórtem et resurrectiónem\nsúam nóbis salútis\nætérnæ præmia comparávit:\nconcéde, quæsumus:\nut hæc mystéria sacratíssimo beátæ Maríæ\nVírginis Rosário recoléntes,\net imitémurquod cóntinent,\net quod promíttunt,\nassequámur.\nPer eúndem Chrístum Dóminum nóstrum.\nAmen.",
+
+
+
+  "joyfulMysteryOption": "Mysteria Gaudiosa (dies Lunae et sabbatum)",
+  "theAnnunciation": "Prímum mystérium gaudiósum: Annuntiatio",
+  "theVisitation": "Secundum Mysterium Gaudiosum: Visitatio",
+  "theNativity": "Tertium Mysterium Gaudiosum: Nativitas",
+  "thePresentation": "Quartum Mysterium Gaudiosum: Presentatio",
+  "theFindingOfJesusInTheTemple": "Quintum Mysterium Gaudiosum: Inventiónem Dómini nostri Iesu Christi in templo",
+
+
+
+  "mysteryOfLightOption": "Mysteria Luminosa (dies Iovis)",
+  "theBaptismOfJesusInTheRiverJordan": "Primum mysterium luminosum: Baptismus Iesu",
+  "theWeddingFeastAtCana": "Secúndum mystérium luminosum: Miraculum ad nuptias in Cana",
+  "theProclamationOfTheKingdomOfGod": "Tértium mystérium luminosum: Et Proclamatio Regni Dei",
+  "theTransfigurationOfJesus": "Quartum mystérium luminusom: Transfiguratum",
+  "theInstitutionOfTheEucharist": "Quintum mystérium luminosum: Ultima cena",
+
+
+
+  "sorrowfulMysteriesOption": "Mysteria Dolorosa (dies Martis et dies Veneris)",
+  "theAgonyInTheGarden": "Prímum mystérium dolorósum: Cruciatus in Horto",
+  "theScourgingAtThePillar": "Secúndum mystérium dolorósum: Flagellatiónem Dómini nostri Iesu Christi",
+  "theCrowningWithThorns": "Tertium mystérium dolorósum: Coronatio cum Spinis",
+  "theCarryingOfTheCross": "Quartum mystérium dolorósum: Bajulatiónem Crucis",
+  "theCrucifixion": "Quintum mystérium dolorósum: Crucifixio",
+
+
+  
+  "gloriousMysteriesOption": "Mysteria Gloriosa (dies Dominica et dies Mercurii)",
+  "theResurrection": "Prímum mystérium gloriósum: Resurrectio",
+  "theAscension": "Secúndum mystérium gloriósum: Ascensio",
+  "theComingOfTheHolySpirit": "Tértium mystérium gloriósum: Descensus Spiritus Sancti",
+  "theAssumptionOfMary": "Quartum mystérium gloriósum: Assumptiónem Beátæ Maríæ Vírginis in cáelum",
+  "theCoronationOfMary": "Quintum mystérium gloriósum: Coronatiónem Beátæ Maríæ Vírginis in cáelum"
+}

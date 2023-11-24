@@ -1,0 +1,46 @@
+{
+  "signOfTheCross": "En el nombre del Padre, y del Hijo, y del Espíritu Santo.",
+  "theApostlesCreed": "Creo en Dios,\nPadre Todopoderoso,\nCreador del cielo y de la tierra.\nCreo en Jesucristo, su único Hijo, Nuestro Señor,\nque fue concebido por obra y gracia del Espíriu Santo,\nnació de Santa María Virgen,\npadeció bajo el poder de Poncio Pilato,\nfue crucificado, muerto y sepultado,\ndescendió a los infiernos,\nal tercer día resucitó de entre los muertos,\nsubió a los cielos\ny está sentado a la derecha de Dios,\nPadre todopoderoso.\nDesde allí ha de venir a juzgar\na vivos y muertos.\nCreo en el Espíritu Santo,\nla Santa Iglesia Católica,\nla comunión de los santos,\nel perdón de los pecados,\nla resurrección de la carne\ny la vida eterna.\nAmén.",
+  "theLordsPrayer": "Padre Nuestro\nque estás en el cielo,\nsantificado sea tu nombre,\nvenga a nosotros tu reino,\nhágase tu voluntad\nasí en la tierra como en el cielo.\nDanos hoy nuestro pan de cada día,\ny perdona nuestras ofensas\ncomo nosotros perdonamos a los que nos ofenden.\nNo nos dejes caer en la tentación\ny líbranos del mal.\nAmén.",
+  "hailMary": "Dios te salve, María,\nllena eres de gracia,\nel Señor es contigo,\nBendita tu eres entre todas las mujeres\ny bendito es el fruto de tu vientre, Jesús.\nSanta María, Madre de Dios\nruega por nosotros, pecadores\nahora y en la hora de nuestra muerte.\nAmén.",
+  "gloryBe": "Gloria al Padre,\ny al Hijo,\ny al Espiritu Santo.\nComo era en el principio\nahora y siempre\npor los siglos de los siglos.\nAmén.",
+  "fatimaPrayer": "Oh mi Jesús, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva todas las almas al cielo, especialmente las mas necesitadas de tu misericordia",
+  "hailHolyQueen": "Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra, Dios te salve. A ti clamamos los desterrados hijos de Eva. A ti suspiramos gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora, abogada nuestra: vuelve a nosotros esos tus ojos misericordiosos. Y después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. Oh clemente, oh piadosa, oh dulce Virgen María. Ruega por nosotros, Santa Madre de Dios, para que seamos dignos de las promesas de Cristo.",
+  "concludingPrayer": "Oh Dios de quién Único Hijo nos ha otorgado los beneficios de la vida eterna, concédenos la gracia que te pedimos mientras meditamos los Misterios del Mas Santo Rosario de la Bienaventurada Virgen María, debemos imitar lo que contienen y obtener lo que prometen, a través del mismo Cristo Nuestro Señor",
+
+
+
+  "joyfulMysteryOption": "Misterios Gozosos (Lunes y Sábado)",
+  "theAnnunciation": "La Anunciación",
+  "theVisitation": "La Visitación",
+  "theNativity": "La Natividad",
+  "thePresentation": "La Presentación de Jesús en el Templo",
+  "theFindingOfJesusInTheTemple": "El Niño perdido y hallado en el Templo",
+
+
+
+  "mysteryOfLightOption": "Mysterios de Luz (Jueves)",
+  "theBaptismOfJesusInTheRiverJordan": "Su Bautismo en el Jordán",
+  "theWeddingFeastAtCana": "Su autorrevelación en las bodas de Caná",
+  "theProclamationOfTheKingdomOfGod": "Su anuncio del Reino de Dios invitando a la conversión",
+  "theTransfigurationOfJesus": "Su Transfiguración",
+  "theInstitutionOfTheEucharist": "Institución de la Eucharistía",
+
+
+
+  "sorrowfulMysteriesOption": "Misterios Dolorosos (Martes & Viernes)",
+  "theAgonyInTheGarden": "La Agonía en el Huerto",
+  "theScourgingAtThePillar": "La Flagelación del Señor",
+  "theCrowningWithThorns": "La Coronación con Espinas",
+  "theCarryingOfTheCross": "Jesús carga su Cruz",
+  "theCrucifixion": "La Crucifixión",
+
+
+  
+  "gloriousMysteriesOption": "Misterios Gloriosos (Domingo & Miércoles)",
+  "theResurrection": "La Resurrección del Señor",
+  "theAscension": "La Ascensión del Señor",
+  "theComingOfTheHolySpirit": "La Venida del Espíritu Santo",
+  "theAssumptionOfMary": "La Asunción de la Virgen María",
+  "theCoronationOfMary": "La Coronacioń de María Santísma"
+}

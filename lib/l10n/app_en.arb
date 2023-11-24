@@ -1,0 +1,142 @@
+{
+  "signOfTheCross": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+  "@signOfTheCross": {
+    "description": "Sign of the Cross"
+  },
+  "theApostlesCreed": "I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven, and is seated at the right hand of God the Father almighty; from there He will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.",
+  "@theApostlesCreed": {
+    "description": "The Apostle's Creed"
+  },
+  "theLordsPrayer": "Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.",
+  "@theLordsPrayer": {
+    "description": "The Lord's Prayer"
+  },
+  "hailMary": "Hail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen.",
+  "@hailMary": {
+    "description": "Hail Mary"
+  },
+  "gloryBe": "Glory be to the Father, the Son, and the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.",
+  "@gloryBe": {
+    "description": "Glory Be"
+  },
+  "fatimaPrayer": "O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to Heaven, especially those who have most need of your mercy. Amen.",
+  "@fatimaPrayer": {
+    "description": "Fatima Prayer"
+  },
+  "hailHolyQueen": "Hail, holy Queen, mother of mercy, our life, our sweetness, and our hope. To you we cry, poor banished children of Eve; to you we send up our sighs, mourning and weeping in this valley of tears.\n\nTurn, then, most gracious advocate, your eyes of mercy toward us; and after this, our exile, show unto us the blessed fruit of your womb, Jesus. O clement, O loving, O sweet Virgin Mary.\n\nPray for us, O holy Mother of God.\n\nThat we may be made worthy of the promises of Christ.",
+  "@hailHolyQueen": {
+    "description": "Hail Holy Queen"
+  },
+  "concludingPrayer": "Let us pray:\n\nO God, whose Only Begotten Son, by His Life, Death, and Resurrection, has purchased for us the rewards of eternal life, grant, we beseech thee, that while meditating on these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen.",
+  "@concludingPrayer": {
+    "description": "Concluding Prayer"
+  },
+
+
+
+  "joyfulMysteryOption": "Joyful Mysteries (Mon & Sat)",
+  "@joyfulMysteryOption": {
+    "description": "Joyful Mystery Option in MainPage"
+  },
+  "theAnnunciation": "The First Joyful Mystery: The Annunciation",
+  "@theAnnunciation": {
+    "description": "The Annunciation"
+  },
+  "theVisitation": "The Second Joyful Mystery: The Visitation",
+  "@theVisitation": {
+    "description": "The Visitation"
+  },
+  "theNativity": "The Third Joyful Mystery: The Nativity",
+  "@theNativity": {
+    "description": "The Nativity"
+  },
+  "thePresentation": "The Fourth Joyful Mystery: The Presentation",
+  "@thePresentation": {
+    "description": "The Presentation"
+  },
+  "theFindingOfJesusInTheTemple": "The Fifth Joyful Mystery: The Finding of Jesus in the Temple",
+  "@theFindingOfJesusInTheTemple": {
+    "description": "The Finding of Jesus in the Temple"
+  },
+
+
+
+  "mysteryOfLightOption": "Mysteries of Light (Thursday)",
+  "@mysteryOfLightOption": {
+    "description": "Mystery of Light Option in MainPage"
+  },
+  "theBaptismOfJesusInTheRiverJordan": "The First Mystery of Light: The Baptism of Jesus in the River Jordan",
+  "@theBaptismOfJesusInTheRiverJordan": {
+    "description": "The Baptism of Jesus in the River Jordan"
+  },
+  "theWeddingFeastAtCana": "The Second Mystery of Light: The Wedding Feast at Cana",
+  "@theWeddingFeastAtCana": {
+    "description": "The Wedding Feast at Cana"
+  },
+  "theProclamationOfTheKingdomOfGod": "The Third Mystery of Light: The Proclamation of the Kingdom of God",
+  "@theProclamationOfTheKingdomOfGod": {
+    "description": "The Proclamation of the Kingdom of God"
+  },
+  "theTransfigurationOfJesus": "The Fourth Mystery of Light: The Transfiguration of Jesus",
+  "@theTransfigurationOfJesus": {
+    "description": "The Transfiguration of Jesus"
+  },
+  "theInstitutionOfTheEucharist": "The Fifth Mystery of Light: The Institution of the Eucharist",
+  "@theInstitutionOfTheEucharist": {
+    "description": "The Institution of the Eucharist"
+  },
+
+
+
+  "sorrowfulMysteriesOption": "Sorrowful Mysteries (Tues &Fri)",
+  "@sorrowfulMysteriesOption": {
+    "description": "Sorrowful Mysteries Option in MainPage"
+  },
+  "theAgonyInTheGarden": "The First Sorrowful Mystery: The Agony in the Garden",
+  "@theAgonyInTheGarden": {
+    "description": "The Agony in the Garden"
+  },
+  "theScourgingAtThePillar": "The Second Sorrowful Mystery: The Scourging at the Pillar",
+  "@theScourgingAtThePillar": {
+    "description": "The Scourging at the Pillar"
+  },
+  "theCrowningWithThorns": "The Third Sorrowful Mystery: The Crowning With Thorns",
+  "@theCrowningWithThorns": {
+    "description": "The Crowning With Thorns"
+  },
+  "theCarryingOfTheCross": "The Fourth Sorrowful Mystery: The Carrying of the Cross",
+  "@theCarryingOfTheCross": {
+    "description": "The Carrying of the Cross"
+  },
+  "theCrucifixion": "The Fifth Sorrowful Mystery: The Crucifixion",
+  "@theCrucifixion": {
+    "description": "The Crucifixion"
+  },
+
+
+  
+  "gloriousMysteriesOption": "Glorious Mysteries (Sun & Wed)",
+  "@gloriousMysteriesOption": {
+    "description": "Glorious Mysteries Option in MainPage"
+  },
+  "theResurrection": "The First Glorious Mystery: The Resurrection",
+  "@theResurrection": {
+    "description": "The Resurrection"
+  },
+  "theAscension": "The Second Glorious Mystery: The Ascension",
+  "@theAscension": {
+    "description": "The Ascension"
+  },
+  "theComingOfTheHolySpirit": "The Third Glorious Mystery: The Coming of the Holy Spirit",
+  "@theComingOfTheHolySpirit": {
+    "description": "The Coming of the Holy Spirit"
+  },
+  "theAssumptionOfMary": "The Fourth Glorious Mystery: The Assumption of Mary",
+  "@theAssumptionOfMary": {
+    "description": "The Assumption of Mary"
+  },
+  "theCoronationOfMary": "The Fifth Glorious Mystery: The Coronation of Mary",
+  "@theCoronationOfMary": {
+    "description": "The Coronation of Mary"
+  }
+}
