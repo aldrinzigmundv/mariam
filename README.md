@@ -12,7 +12,7 @@ Or download the latest APK from the [Releases Section](https://github.com/aldrin
 
 ## What is Mariam?
 
-The app is designed to enable believers to pray the rosary even when they don't have a physical rosary at hand. Additionally, it provides a helpful tool for individuals who struggle to keep track of beads while using a physical rosary. Being open-source and not tracking users, it is also very suitable for believers in areas or situations where being caught with a rosary could lead to difficulties or legal repercussions, as it has happened multiple times in history.
+Mariam is a free and open-source app designed to enable believers to pray the rosary even when they don't have a physical rosary at hand. Additionally, it provides a helpful tool for individuals who struggle to keep track of beads while using a physical rosary. Being open-source and not tracking users, it is also very suitable for believers in areas or situations where being caught with a rosary could lead to difficulties or legal repercussions, as it has happened multiple times in history.
 
 I chose the app name 'Mariam' as a nod to Mary, inspired by what is commonly believed to be her native tongue, Aramaic. This name adaptation aims to resonate with English speakers while paying homage to its origins in the language likely spoken by Mary.
 
