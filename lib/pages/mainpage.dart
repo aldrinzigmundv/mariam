@@ -80,6 +80,12 @@ class _MainPageState extends State<MainPage> {
             children: [
               Padding(
                 padding: const EdgeInsets.all(9.0),
+                child: Card(
+                      child: Image.asset('assets/images/main.jpg'),
+                    ),
+              ),
+              Padding(
+                padding: const EdgeInsets.all(9.0),
                 child: DropdownMenu(
                   width: MediaQuery.of(context).size.width - 18.0,
                   initialSelection: _selectedLanguage,

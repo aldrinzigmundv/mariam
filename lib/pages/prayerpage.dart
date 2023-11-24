@@ -73,6 +73,7 @@ class _PrayerPageState extends State<PrayerPage> {
         automaticallyImplyLeading: false,
         backgroundColor: const Color(0xFF2B4593),
         foregroundColor: Colors.white,
+        centerTitle: true,
         title: Text('${index + 1} of 80'),
       ),
       body: SafeArea(
