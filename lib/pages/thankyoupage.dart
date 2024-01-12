@@ -1,30 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 import 'package:mariam/services/routing.dart';
 
 class ThankYouPage extends StatelessWidget {
   const ThankYouPage({super.key});
-
-  _copyBitcoinAddress(context) {
-    Clipboard.setData(const ClipboardData(
-        text:
-            'bc1qruus6vnxrww6pqac3hvg6vsepmqv8d66dwjm59'));
-    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-      content: Text("Bitcoin Address copied to clipboard."),
-      duration: Duration(seconds: 2),
-    ));
-  }
-
-  _copyMoneroAddress(context) {
-    Clipboard.setData(const ClipboardData(
-        text:
-            '86cQoPfKTJ2bRfGH5Ts2kzaXCRcVRiX8CUHKc9xmeUmQ8YM8Uzk9S97T5gQaqYu58C9wuFK7opDH7cM9EJyR4V5LAq9RGv4'));
-    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-      content: Text("Monero Address copied to clipboard."),
-      duration: Duration(seconds: 2),
-    ));
-  }
 
   _goToHomePressed(BuildContext context) {
     goToMainPage(context: context);

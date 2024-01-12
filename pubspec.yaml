@@ -1,18 +1,20 @@
 name: mariam
 description: "Mariam is a free, open-source rosary app that enables believers to pray the rosary even when they don't have a physical rosary at hand."
 publish_to: 'none'
-version: 1.5.0
+version: 2.0.0
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
 
 dependencies:
+  cupertino_icons: ^1.0.6
   flutter:
     sdk: flutter
   flutter_launcher_icons: ^0.13.1
   flutter_localizations:
     sdk: flutter
   intl: any
+  widget_zoom: ^0.0.3
 
 dev_dependencies:
   flutter_test:
@@ -42,13 +44,10 @@ flutter:
   generate: true
 
   assets:
-    - assets/icons/icon.png
-    - assets/images/main.jpg
-    - assets/images/hailmary.jpg
-    - assets/images/signofthecross.jpg
-    - assets/images/apostlescreed.jpg
-    - assets/images/thelordsprayer.jpg
-    - assets/images/glorybe.jpg
-    - assets/images/fatimaprayer.jpg
-    - assets/images/mystery.jpg
-    - assets/images/thankyou.jpg
+    - assets/icons/
+    - assets/images/
+    - assets/images/light/
+    - assets/images/glorious/
+    - assets/images/joyful/
+    - assets/images/sorrowful/
+    - assets/images/prayers/

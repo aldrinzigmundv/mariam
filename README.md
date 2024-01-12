@@ -1,6 +1,6 @@
 # Mariam
 
-<img src="screenshots/screenshot1.png" alt="Screenshot 1" width="270" height="602"><img src="screenshots/screenshot2.png" alt="Screenshot 2" width="270" height="602"><img src="screenshots/screenshot3.png" alt="Screenshot 3" width="270" height="602">
+<img src="screenshots/screenshot1.png" alt="Screenshot 1" width="270" height="602"><img src="screenshots/screenshot3.png" alt="Screenshot 2" width="270" height="602"><img src="screenshots/screenshot4.png" alt="Screenshot 3" width="270" height="602">
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
      alt="Get it on Google Play"
@@ -12,7 +12,11 @@ Or download the latest APK from the [Releases Section](https://github.com/aldrin
 
 ## What is Mariam?
 
-Mariam is a free and open-source app designed to enable believers to pray the rosary even when they don't have a physical rosary at hand. Additionally, it provides a helpful tool for individuals who struggle to keep track of beads while using a physical rosary. Being open-source and not tracking users, it is also very suitable for believers in areas or situations where being caught with a rosary could lead to difficulties or legal repercussions, as it has happened multiple times in history.
+Mariam is a free and open-source app designed to enable believers to pray the rosary even when they don't have a physical rosary at hand. Additionally, it serves as a helpful tool for meditation by displaying famous paintings in the public domain that are associated with each prayer or mystery of the rosary.
+
+It can also be a helpful tool for individuals who struggle to keep track of beads while using a physical rosary.
+
+Being open-source and not tracking users, it is also very suitable for believers in areas or situations where being caught with a rosary could lead to difficulties or legal repercussions, as it has happened multiple times in history.
 
 I chose the app name 'Mariam' as a nod to Mary, inspired by what is commonly believed to be her native tongue, Aramaic. This name adaptation aims to resonate with English speakers while paying homage to its origins in the language likely spoken by Mary.
 
@@ -21,6 +25,7 @@ I dedicate this app, 'Mariam,' to Our Lady of Fatima in honor of the miracles at
 ## Features
 * Free and open-source, no tracking or ads
 * Intuitive and easy-to-navigate interface design
+* See famous paintings associated with each prayer or mystery of the rosary to help with meditation
 * Currently supports 4 languages (English, Latin, Spanish and Filipino)
 
 

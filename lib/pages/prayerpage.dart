@@ -1,17 +1,20 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:widget_zoom/widget_zoom.dart';
 
+import 'package:mariam/services/rosary.dart';
 import 'package:mariam/services/routing.dart';
 
 class PrayerPage extends StatefulWidget {
   const PrayerPage(
       {super.key,
       required this.rosary,
+      required this.selectedMystery,
       required this.index,
       required this.image});
 
   final List<String> rosary;
+  final String selectedMystery;
   final int index;
   final String image;
 
@@ -28,28 +31,16 @@ class _PrayerPageState extends State<PrayerPage> {
   }
 
   _navigateNext() {
-    String image = "";
     if (index < 79) {
-      if (rosary[index + 1] == AppLocalizations.of(context)!.theApostlesCreed) {
-        image = 'assets/images/apostlescreed.jpg';
-      } else if (rosary[index + 1] ==
-          AppLocalizations.of(context)!.theLordsPrayer) {
-        image = 'assets/images/thelordsprayer.jpg';
-      } else if (rosary[index + 1] == AppLocalizations.of(context)!.hailMary) {
-        image = 'assets/images/hailmary.jpg';
-      } else if (rosary[index + 1] == AppLocalizations.of(context)!.gloryBe) {
-        image = 'assets/images/glorybe.jpg';
-      } else if (rosary[index + 1] ==
-          AppLocalizations.of(context)!.fatimaPrayer) {
-        image = 'assets/images/fatimaprayer.jpg';
-      } else if (rosary[index + 1] ==
-          AppLocalizations.of(context)!.hailHolyQueen) {
-        image = 'assets/images/hailmary.jpg';
-      } else {
-        image = 'assets/images/mystery.jpg';
-      }
+      String image = "";
+      image = Rosary()
+          .getImage(context, rosary, index, widget.selectedMystery);
       goToOrNextPrayerPage(
-          context: context, index: index + 1, rosary: rosary, image: image);
+          context: context,
+          index: index + 1,
+          rosary: rosary,
+          selectedMystery: widget.selectedMystery,
+          image: image);
     } else {
       goToThankYouPage(context: context);
     }
@@ -88,16 +79,31 @@ class _PrayerPageState extends State<PrayerPage> {
                   ))),
           child: Center(
             child: SingleChildScrollView(
-              child: Padding(
-                padding: const EdgeInsets.all(9.0),
-                child: SelectableText(
-                  rosary[index],
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(
-                    fontSize: 18,
-                    color: Colors.black,
+              child: Column(
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.all(9.0),
+                    child: SizedBox(
+                      width: MediaQuery.of(context).size.width / 2,
+                      child: Card(
+                        child: WidgetZoom(
+                            heroAnimationTag: 'image',
+                            zoomWidget: Image.asset(widget.image)),
+                      ),
+                    ),
                   ),
-                ),
+                  Padding(
+                    padding: const EdgeInsets.all(9.0),
+                    child: SelectableText(
+                      rosary[index],
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(
+                        fontSize: 18,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ),
+                ],
               ),
             ),
           ),
@@ -122,7 +128,7 @@ class _PrayerPageState extends State<PrayerPage> {
                     ),
                   ),
                 )),
-                Padding(
+            Padding(
                 padding: const EdgeInsets.all(9.0),
                 child: IconButton(
                   icon: const Icon(Icons.home, color: Colors.white),

@@ -14,12 +14,13 @@ goToMainPage(
 }
 
 goToOrNextPrayerPage(
-    {required BuildContext context, required int index, required List<String> rosary, required String image}) {
+    {required BuildContext context, required int index, required String selectedMystery, required List<String> rosary, required String image}) {
   Navigator.push(
     context,
     PageRouteBuilder(
       pageBuilder: (context, animation, secondaryAnimation) => PrayerPage(
         rosary: rosary,
+        selectedMystery: selectedMystery,
         index: index,
         image: image
       ),
