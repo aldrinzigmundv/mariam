@@ -87,7 +87,7 @@ class _PrayerPageState extends State<PrayerPage> {
                       width: MediaQuery.of(context).size.width / 2,
                       child: Card(
                         child: WidgetZoom(
-                            heroAnimationTag: 'image',
+                            heroAnimationTag: widget.index.toString(),
                             zoomWidget: Image.asset(widget.image)),
                       ),
                     ),
