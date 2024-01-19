@@ -53,8 +53,8 @@ android {
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdkVersion 24
         targetSdkVersion 33
-        versionCode 4
-        versionName "2.0.5"
+        versionCode 5
+        versionName "2.0.6"
     }
 
     signingConfigs {

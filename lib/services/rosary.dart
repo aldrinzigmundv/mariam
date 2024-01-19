@@ -126,8 +126,7 @@ class Rosary {
       image = 'assets/images/prayers/Hendrick_van_balen_Holy_trinity.jpg';
     } else if (rosary[index + 1] ==
         AppLocalizations.of(context)!.fatimaPrayer) {
-      image =
-          'assets/images/prayers/Ary_Scheffer_-_The_Temptation_of_Christ_(1854).jpg';
+      image = 'assets/images/prayers/1024px-The_Crucifixion_MET_DT10248.jpg';
     } else if (rosary[index + 1] ==
         AppLocalizations.of(context)!.theApostlesCreed) {
       image =
@@ -153,52 +152,66 @@ class Rosary {
             image = 'assets/images/joyful/Adoration_of_the_shepherds_reni.JPG';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.thePresentation) {
-            image = 'assets/images/joyful/Champaigne_Présentation_au_temple_Saumur.jpg';
+            image =
+                'assets/images/joyful/Champaigne_Présentation_au_temple_Saumur.jpg';
           } else {
-            image = 'assets/images/joyful/Disputa_con_los_doctores_(El_Veronés)_grande.jpg';
+            image =
+                'assets/images/joyful/Disputa_con_los_doctores_(El_Veronés)_grande.jpg';
           }
           break;
         case "sorrowful":
           if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theAgonyInTheGarden) {
-            image = 'assets/images/sorrowful/David_Teniers_the_Elder_-_The_Agony_in_the_Garden.jpg';
+            image =
+                'assets/images/sorrowful/David_Teniers_the_Elder_-_The_Agony_in_the_Garden.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theScourgingAtThePillar) {
-            image = 'assets/images/sorrowful/De_Mysteriën_van_de_Rozenkrans._De_geseling_van_Christus,_Peter_Paul_Rubens,_17de_eeuw,_Sint-Pauluskerk_Antwerpen.jpg';
+            image =
+                'assets/images/sorrowful/De_Mysteriën_van_de_Rozenkrans._De_geseling_van_Christus,_Peter_Paul_Rubens,_17de_eeuw,_Sint-Pauluskerk_Antwerpen.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theCrowningWithThorns) {
-            image = 'assets/images/sorrowful/Jesus_Christ_being_crowned_with_thorns,_by_Jan_Miense_Molenaer.jpg';
+            image =
+                'assets/images/sorrowful/Jesus_Christ_being_crowned_with_thorns,_by_Jan_Miense_Molenaer.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theCarryingOfTheCross) {
-            image = 'assets/images/sorrowful/Pieter_Bruegel_the_Younger_Christ_carrying_the_cross_1606_Gemäldegalerie_Berlin_9368.jpg';
+            image =
+                'assets/images/sorrowful/Pieter_Bruegel_the_Younger_Christ_carrying_the_cross_1606_Gemäldegalerie_Berlin_9368.jpg';
           } else {
-            image = 'assets/images/sorrowful/Mantegna,_Andrea_-_crucifixion_-_Louvre_from_Predella_San_Zeno_Altarpiece_Verona.jpg';
+            image =
+                'assets/images/sorrowful/Mantegna,_Andrea_-_crucifixion_-_Louvre_from_Predella_San_Zeno_Altarpiece_Verona.jpg';
           }
           break;
         case "glorious":
           if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theResurrection) {
-            image = 'assets/images/glorious/Alexander_Ivanov_-_Christ\'s_Appearance_to_Mary_Magdalene_after_the_Resurrection_-_Google_Art_Project.jpg';
+            image =
+                'assets/images/glorious/Alexander_Ivanov_-_Christ\'s_Appearance_to_Mary_Magdalene_after_the_Resurrection_-_Google_Art_Project.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theAscension) {
-            image = 'assets/images/glorious/Wga_Garofalo_Ascension_of_Christ.jpg';
+            image =
+                'assets/images/glorious/Wga_Garofalo_Ascension_of_Christ.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theComingOfTheHolySpirit) {
-            image = 'assets/images/glorious/Maino_Pentecostés,_1620-1625._Museo_del_Prado.jpg';
+            image =
+                'assets/images/glorious/Maino_Pentecostés,_1620-1625._Museo_del_Prado.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theAssumptionOfMary) {
-            image = 'assets/images/glorious/The_Assumption_of_the_Virgin_by_Luca_Giordano.jpg';
+            image =
+                'assets/images/glorious/The_Assumption_of_the_Virgin_by_Luca_Giordano.jpg';
           } else {
-            image = 'assets/images/glorious/Diego_Velázquez_-_Coronation_of_the_Virgin_-_Prado.jpg';
+            image =
+                'assets/images/glorious/Diego_Velázquez_-_Coronation_of_the_Virgin_-_Prado.jpg';
           }
           break;
         case "light":
           if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theBaptismOfJesusInTheRiverJordan) {
-            image = 'assets/images/light/Juan_Sánchez_Cotán_-_Baptism_of_Christ,_1600_27.jpg';
+            image =
+                'assets/images/light/Juan_Sánchez_Cotán_-_Baptism_of_Christ,_1600_27.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theWeddingFeastAtCana) {
-            image = 'assets/images/light/Daniel_Sarrabat_-_The_Wedding_at_Cana.jpg';
+            image =
+                'assets/images/light/Daniel_Sarrabat_-_The_Wedding_at_Cana.jpg';
           } else if (rosary[index + 1] ==
               AppLocalizations.of(context)!.theProclamationOfTheKingdomOfGod) {
             image = 'assets/images/light/Jesus_Christ_teaching_on_moutain.png';
@@ -206,11 +219,13 @@ class Rosary {
               AppLocalizations.of(context)!.theTransfigurationOfJesus) {
             image = 'assets/images/light/Transfiguration_Raphael.jpg';
           } else {
-            image = 'assets/images/light/Vicente_Macip_Comes_-_The_Last_Supper_-_WGA12057.jpg';
+            image =
+                'assets/images/light/Vicente_Macip_Comes_-_The_Last_Supper_-_WGA12057.jpg';
           }
           break;
         default:
-          image = 'assets/images/Virgen_del_Rosario,_de_Domingo_Martínez_(Museo_de_Bellas_Artes_de_Sevilla).jpg';
+          image =
+              'assets/images/Virgen_del_Rosario,_de_Domingo_Martínez_(Museo_de_Bellas_Artes_de_Sevilla).jpg';
       }
     }
     return image;

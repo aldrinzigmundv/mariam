@@ -6,9 +6,6 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'pages/loadingpage.dart';
 
 void main() {
-  // WidgetsFlutterBinding.ensureInitialized();
-  // MobileAds.instance.initialize();
-
   runApp(const MyApp());
 }
 
@@ -40,19 +37,19 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       locale: _locale,
       localizationsDelegates: const [
-      AppLocalizations.delegate,
-      GlobalMaterialLocalizations.delegate,
-    GlobalWidgetsLocalizations.delegate,
-    GlobalCupertinoLocalizations.delegate,
-    ],
-    supportedLocales: const [
-      Locale('en'),
-      Locale('la'),
-      Locale('es'),
-      Locale('fil'),
-    ],
-    title: "Mariam",
-    home: const LoadingPage(),
+        AppLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
+      supportedLocales: const [
+        Locale('en'),
+        Locale('la'),
+        Locale('es'),
+        Locale('fil'),
+      ],
+      title: "Mariam",
+      home: const LoadingPage(),
     );
   }
 }
