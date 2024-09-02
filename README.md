@@ -7,7 +7,7 @@
      height="63">](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.mariam)
      
 [<img src="badges/amazon-appstore-badge-english-black.png"
-     alt="Get it on Google Play"
+     alt="Available at Amazon Appstore"
      height="63">](https://www.amazon.com/dp/B0CNXLCZWP/)
 
 Or download the latest APK from the [Releases Section](https://github.com/aldrinzigmundv/mariam/releases/latest)
