@@ -10,7 +10,7 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   static void setLocale(BuildContext context, Locale newLocale) {
     final _MyAppState state = context.findAncestorStateOfType<_MyAppState>()!;

@@ -172,8 +172,8 @@ class _MainPageState extends State<MainPage> {
               onPressed: () => _letUsPray(),
               style: ButtonStyle(
                 backgroundColor:
-                    MaterialStateProperty.all(const Color(0xFF2B4593)),
-                shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                    WidgetStateProperty.all(const Color(0xFF2B4593)),
+                shape: WidgetStateProperty.all<RoundedRectangleBorder>(
                   RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(3),
                   ),

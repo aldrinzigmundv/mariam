@@ -2,11 +2,13 @@
 
 <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="270" height="602"><img src="screenshots/screenshot3b.png" alt="Screenshot 2" width="270" height="602"><img src="screenshots/screenshot4b.png" alt="Screenshot 3" width="270" height="602">
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+[<img src="badges/GetItOnGooglePlay_Badge_Web_color_English.png"
      alt="Get it on Google Play"
-     height="93">](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.mariam)[<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"
-     alt="Get it on amazon appstore"
-     height="65">](https://www.amazon.com/dp/B0CNXLCZWP/)
+     height="63">](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.mariam)
+     
+[<img src="badges/amazon-appstore-badge-english-black.png"
+     alt="Get it on Google Play"
+     height="63">](https://www.amazon.com/dp/B0CNXLCZWP/)
 
 Or download the latest APK from the [Releases Section](https://github.com/aldrinzigmundv/mariam/releases/latest)
 

@@ -12,7 +12,9 @@ class LoadingPage extends StatefulWidget {
 class _LoadingPageState extends State<LoadingPage> {
   _startup() async {
     Future.delayed(const Duration(seconds: 1), () async {
-      goToMainPage(context: context);
+      if (mounted) {
+        goToMainPage(context: context);
+      }
     });
   }
 

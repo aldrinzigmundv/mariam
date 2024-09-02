@@ -120,8 +120,8 @@ class _PrayerPageState extends State<PrayerPage> {
                   onPressed: () => _navigateBack(),
                   style: ButtonStyle(
                     backgroundColor:
-                        MaterialStateProperty.all(const Color(0xFF2B4593)),
-                    shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                        WidgetStateProperty.all(const Color(0xFF2B4593)),
+                    shape: WidgetStateProperty.all<RoundedRectangleBorder>(
                       RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(3),
                       ),
@@ -135,8 +135,8 @@ class _PrayerPageState extends State<PrayerPage> {
                   onPressed: () => _goToMainPage(context),
                   style: ButtonStyle(
                     backgroundColor:
-                        MaterialStateProperty.all(const Color(0xFF2B4593)),
-                    shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                        WidgetStateProperty.all(const Color(0xFF2B4593)),
+                    shape: WidgetStateProperty.all<RoundedRectangleBorder>(
                       RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(3),
                       ),
@@ -150,8 +150,8 @@ class _PrayerPageState extends State<PrayerPage> {
                   onPressed: () => _navigateNext(),
                   style: ButtonStyle(
                     backgroundColor:
-                        MaterialStateProperty.all(const Color(0xFF2B4593)),
-                    shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                        WidgetStateProperty.all(const Color(0xFF2B4593)),
+                    shape: WidgetStateProperty.all<RoundedRectangleBorder>(
                       RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(3),
                       ),
